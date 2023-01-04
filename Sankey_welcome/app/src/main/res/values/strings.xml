@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sankey_welcome</string>
+    <string name="employee_name">Employee_Name</string>
+    <string name="sankey_info">Sankey_Info</string>
+    <string name="harsheta">Harsheta</string>
+    <string name="welcome_to_sankey_solutions">Welcome To Sankey Solutions</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="request_permissions">Request Permissions</string>
+    <string name="click_here">click here</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="rohit">rohit</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="name">Name</string>
+</resources>
